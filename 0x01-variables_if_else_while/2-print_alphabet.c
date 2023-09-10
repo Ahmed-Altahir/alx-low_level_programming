@@ -3,7 +3,7 @@
 /**
  * main entry point
  *
- * Description: alphabet in lowercase
+ * Description: print alphabet letter in lowercase
  *
  * Return: 0 (successful)
 */
