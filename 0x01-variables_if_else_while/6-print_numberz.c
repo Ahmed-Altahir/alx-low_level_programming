@@ -1,14 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - entry point
-
+ * main - entry poin
  *
-
- * Description: print digit numbers from 0 to 9
-
+ * Description: count from 0 to 9
  *
-
  * Return: 0 (successful)
 */
 
