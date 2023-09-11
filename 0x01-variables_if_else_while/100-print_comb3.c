@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - entry poin
+ * main - entry point
  *
- * Description: print a to z in reverse
+ * Description: print two different digits
  *
  * Return: 0 (successful)
 */
@@ -12,7 +12,7 @@ int main(void)
 {
 	int digit1 = 0, digit2;
 
-	while (digit2 <= 9)
+	while (digit1 <= 9)
 	{
 		digit2 = 0;
 		while (digit2 <= 9)
@@ -34,5 +34,5 @@ int main(void)
 	}
 	putchar('\n');
 
-        return (0);
+	return (0);
 }
