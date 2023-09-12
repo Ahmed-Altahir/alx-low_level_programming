@@ -1,11 +1,8 @@
 #include "main.h"
 
 /**
- * main - entry point
+ * print_alphabet - use _putchar function to print_alphabet
  *
- * Description: use _putchar function to print_alphabet
- *
- * Return: 0 (successful)
 */
 
 void print_alphabet(void)
