@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * print_alphabet - use _putchar function to print_alphabet
  *
