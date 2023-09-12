@@ -3,8 +3,8 @@
 /**
  * _islower - function to check if characyer is lowercase
  *
- *@c: checks input of function
-
+ * @c: checks input of function
+ *
  * print_alphabet - use _putchar function to print_alphabet
  *
  * Return: returns 1 if c is lowercase otherwise always 0 (successful)
