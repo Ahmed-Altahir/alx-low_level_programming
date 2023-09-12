@@ -3,7 +3,7 @@
 /**
  * main - entry point
  *
- * Description: print_alphabet
+ * Description: use _putchar function to print_alphabet
  *
  * Return: 0 (successful)
 */
