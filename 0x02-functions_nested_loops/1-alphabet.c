@@ -3,7 +3,7 @@
 /**
  * main - entry point
  *
- * Description: print alphabet
+ * Description: print_alphabet
  *
  * Return: 0 (successful)
 */
