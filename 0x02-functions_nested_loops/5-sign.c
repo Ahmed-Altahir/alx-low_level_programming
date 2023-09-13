@@ -5,6 +5,8 @@
  *
  * print_alphabet - use _putchar function to print_alphabet
  *
+ * @n: takes integer type input for function
+ *
  * Return: returns 1 if c is lowercase otherwise always 0 (successful)
 */
 
