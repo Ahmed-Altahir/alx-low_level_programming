@@ -8,7 +8,7 @@
  * Return: returns 1 if c is lowercase otherwise always 0 (successful)
 */
 
-int print_sign(int n);
+int print_sign(int n)
 {
 	if (n > 0)
 	{
