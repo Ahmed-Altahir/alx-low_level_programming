@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _islower - function to check if characyer is lowercase
+ * _abs - function to check if characyer is lowercase
  *
  * print_alphabet - use _putchar function to print_alphabet
  *
