@@ -10,8 +10,8 @@
  * Return: returns 1 if c is lowercase otherwise always 0 (successful)
 */
 
-int _abs(int
-{		
+int _abs(int)
+{
 		if (n < 0)
 		n = (-1) * n;
 		return (n);
