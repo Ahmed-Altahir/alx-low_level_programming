@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * more_numbers - check if c is upper
+ * print_diagonal - check if c is upper
  *
- * Return: always 0
+ * @n: always sdckjscnk ddff dfsf
 */
 
 void print_diagonal(int n)
