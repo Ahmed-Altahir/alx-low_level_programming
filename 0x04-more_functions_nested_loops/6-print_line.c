@@ -3,7 +3,7 @@
 /**
  * print_line - check if c is upper
  *
- * @n: ugkh khk hkb
+ * @n: num of the _ times
  *
  * Return: always 0
 */
