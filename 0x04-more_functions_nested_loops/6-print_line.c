@@ -13,6 +13,7 @@ void print_line(int n)
 	int shit;
 	if (n <= 0)
 		_putchar('\n');
+	
 	else
 	{
 		for (shit = 1; shit <= n; shit++)
