@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_most_numbers mul - check if c is upper
+ * print_most_numbers - mul check if c is upper
  *
  * Return: always 0
 */
