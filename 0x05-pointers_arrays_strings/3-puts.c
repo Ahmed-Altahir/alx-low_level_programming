@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * puts - check the code
+ * _puts - check the code
  *
  * @str: int
  *
