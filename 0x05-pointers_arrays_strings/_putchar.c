@@ -1,6 +1,9 @@
 #include <unistd.h>
+#include <main.h>
 
 /**
+ * main - entry point
+ *
  * _putchar - write characters
  * @c: the character
  *
