@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _puts - check the code
+ * _atoi - check the code
  *
- * @str: int
+ * @s: int
  *
  * Return: nothing.
  */
@@ -17,7 +17,7 @@ int _atoi(char *s)
 
 	while (s[c])
 	{
-		if (s[c] == 45)
+	if (s[c] == 45)
 	{
 	min *= -1;
 	}
