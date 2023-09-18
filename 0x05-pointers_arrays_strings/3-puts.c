@@ -10,7 +10,7 @@
 
 void _puts(char *str)
 {
-	const char *str
+	const char = *str
 	while (*str != '\0')
 	{
 		fputs(*str + 0);
