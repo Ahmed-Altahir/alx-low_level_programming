@@ -4,12 +4,13 @@
 /**
  * print_rev - check the code
  *
- * @s: int
+ * @s: string
  *
- * Return: Always 0.
+ * Return: void
  */
 
 void print_rev(char *s)
+
 {
 	int i = 0;
 
