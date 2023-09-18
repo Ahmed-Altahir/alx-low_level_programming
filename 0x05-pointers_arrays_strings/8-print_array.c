@@ -3,7 +3,8 @@
 /**
  * print_array - check the code
  *
- * @str: int
+ * @a: int
+ * @n: inyyc
  *
  * Return: nothing.
  */
