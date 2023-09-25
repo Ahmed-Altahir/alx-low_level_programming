@@ -5,11 +5,10 @@
  * print_chessboard - check the code
  *
  * @a: string
- * @c: int
  *
  *
  * Return: void
- */
+*/
 
 void print_chessboard(char (*a)[8])
 
