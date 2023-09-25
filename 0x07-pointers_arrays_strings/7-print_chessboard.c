@@ -6,7 +6,6 @@
  *
  * @a: string
  *
- *
  * Return: void
 */
 
@@ -19,7 +18,7 @@ void print_chessboard(char (*a)[8])
 	{
 		for (o = 0; 0 < 8; o++)
 		{
-			_putchar(a[i] [o]);
+			_putchar(a[i][o]);
 		}
 		_putchar('\n');
 	}
