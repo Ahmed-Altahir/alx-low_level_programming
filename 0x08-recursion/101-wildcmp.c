@@ -30,7 +30,6 @@ char *move_past_star(char *s2)
 int inception(char *s1, char *s2)
 {
 	int r = 0;
-	
 	if (*s1 == 0)
 		return (0);
 	if (*s1 == *s2)
