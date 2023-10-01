@@ -29,9 +29,7 @@ int last_index(char *s)
  *
  * @s: blabla
  *
- *
- *
- * Return: mkldmk ksadlkmd
+ * Return: mooha mkldmk ksadlkmd
 */
 
 int is_palindrome(char *s)
