@@ -7,9 +7,7 @@
  *
  * @s: blabla
  *
- *
- *
- * Return: n
+ * Return: nwewe wedw
 */
 
 int is_palindrome(char *s);
@@ -33,7 +31,7 @@ int last_index(char *s)
  *
  *
  *
- * Return: 0 or 1
+ * Return: mkldmk ksadlkmd
 */
 
 int is_palindrome(char *s)
@@ -53,7 +51,7 @@ int is_palindrome(char *s)
  * @m: jsds
  *
  *
- * Return: void
+ * Return: 0 or 1
 */
 
 int check(char *s, int st, int e, int m)
