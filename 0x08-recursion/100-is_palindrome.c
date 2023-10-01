@@ -9,7 +9,7 @@
  *
  *
  *
- * Return: void
+ * Return: n
 */
 
 int is_palindrome(char *s);
@@ -33,7 +33,7 @@ int last_index(char *s)
  *
  *
  *
- * Return: void
+ * Return: 0 or 1
 */
 
 int is_palindrome(char *s)
