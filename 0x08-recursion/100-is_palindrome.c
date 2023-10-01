@@ -12,6 +12,7 @@
  * Return: void
 */
 
+int is_palindrome(char *s)
 int last_index(char *s);
 int check(char *s, int st, int e, int m);
 {
