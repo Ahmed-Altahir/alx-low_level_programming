@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - check the code
+ * main-print check the code
  *
  * @argc: string
  * @argv: blabla
- *
  *
  * Return: void
 */
