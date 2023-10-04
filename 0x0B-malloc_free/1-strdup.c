@@ -4,7 +4,7 @@
 /**
  * *_strdup - check the code
  *
- * @*str: string
+ * @str: string
  *
  *
  * Return: void
@@ -16,7 +16,7 @@ char *_strdup(char *str)
 	char *m;
 
 	if (str == NULL)
-		return(NULL);
+		return (NULL);
 
 	for (; str[s] != '\0'; s++)
 	;
