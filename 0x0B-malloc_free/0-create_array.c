@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdio.h>
+#include <stdlib.h>
 
 /**
  * *create_array - check the code
@@ -14,7 +14,7 @@ char *create_array(unsigned int size, char c)
 {
 	char *n = malloc(size);
 
-	if (size == 0 || n == 0)
+	if (size == NULL || n == 0)
 		return (0);
 
 	while (size--)
