@@ -1,6 +1,4 @@
 #include "dog.h"
-#include <stdio.h>
-#include <stdlib.h>
 
 /**
  * init_dog - wdwd
@@ -9,7 +7,7 @@
  * @owner: jdwkdj
  * @d: ndcne
  *
- * Return: wceuineiui
+ * Return: void
 */
 
 void init_dog(struct dog *d, char *name, float age, char *owner)
