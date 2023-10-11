@@ -1,12 +1,13 @@
 #include "function_pointers.h"
+#include <stdlib.h>
 
 /**
- * int_index - check if a number is equal to 98
+ * int_index - check if a number is equal 
  * @array: the integer to check
  * @size: dcs rfef
  * @cmp: efww fewwf
  *
- * Return: 0 if false, something else otherwise.
+ * Return: if false, something else otherwise.
  */
 
 int int_index(int *array, int size, int (*cmp)(int))
