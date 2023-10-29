@@ -3,7 +3,7 @@
 
 /*
  *
- * get_bit: Returns a value of a given index
+ * get_bit - Returns a value of a given index
  * 
  * @n: jsdndj
  * @index: jdfnkjsn
