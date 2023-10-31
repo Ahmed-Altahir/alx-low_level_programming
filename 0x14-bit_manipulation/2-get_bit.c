@@ -8,7 +8,7 @@
  * @n: jsdndj
  * @index: jdfnkjsn
  * 
- * Always Return: value at given index or -1 if an error occours
+ * Return: value at given index or -1 if an error occours
  *
  */
 
