@@ -2,14 +2,14 @@
 #include <stdio.h>
 
 /**
- * char string
+ * binary_to_uint - jwdck
  *
  * @b: kjdvd
  *
  * convert a binary number to an unsigned int
  * 
- * converted decimal number or 0 if there is an unconvertable char
- */
+ * Return: 0
+*/
 
 
 unsigned int binary_to_uint(const char *b)
