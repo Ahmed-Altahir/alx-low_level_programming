@@ -1,3 +1,5 @@
+#include <stdio.h>
+#include <stdlib.h>
 #include "hash_tables.h"
 
 /**
@@ -25,4 +27,3 @@ hash_table_t *hash_table_create(unsigned long int s)
 		hash_table->array[n] = NULL;
 	return (hash_table);
 }
-
